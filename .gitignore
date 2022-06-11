@@ -1,0 +1,5 @@
+﻿*.sys
+*.docx
+*.tmp
+*.txt
+/temp
